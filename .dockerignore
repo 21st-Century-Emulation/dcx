@@ -1,0 +1,8 @@
+lib/
+.devcontainer/
+dcx
+Dockerfile
+LICENSE
+README.md
+.dockerignore
+.gitignore
